@@ -10,3 +10,5 @@ The `demos` folder contains all the code. For the workshop, I recommend running 
 3. [Classification with Transformers](https://colab.research.google.com/drive/1wrxRoEQpKRHLfI_J2Wkgj8HHn2QZsUbR?usp=sharing)
 4. [Prompting LLMs](https://colab.research.google.com/drive/1w7DksF3mh-rZuelR2_lrhZBBS5w7FQEO?usp=drive_link)
 5. [Chain-of-Thought Prompting](https://colab.research.google.com/drive/1bUUA6IxY26NSkOHK1x7HSz8ZoI1kRoLy?usp=sharing)
+
+[Here is a notebook](https://colab.research.google.com/drive/1TA2V7M37TeNXou26dYBz2q9vTGK2WlEa?usp=sharing) to answer some of the questions people asked during the workshop: 
