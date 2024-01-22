@@ -12,3 +12,7 @@ The `demos` folder contains all the code. For the workshop, I recommend running 
 5. [Chain-of-Thought Prompting](https://colab.research.google.com/drive/1bUUA6IxY26NSkOHK1x7HSz8ZoI1kRoLy?usp=sharing)
 
 [Here is a notebook](https://colab.research.google.com/drive/1TA2V7M37TeNXou26dYBz2q9vTGK2WlEa?usp=sharing) to answer some of the questions people asked during the workshop: 
+
+Other resources if you're interested in the technical details of transformers:
+- [Yannic Kilcher - Youtube](https://www.youtube.com/@YannicKilcher)
+- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
